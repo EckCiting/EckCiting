@@ -1,16 +1,15 @@
-### Hi there 👋
+👋 I‘m committed to becoming a full-stack developer
 
-<!--
-**EckCiting/EckCiting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 🇬🇧 [UofG](https://www.gla.ac.uk/) - MSc in Computing Science, 9/2022 - 9/2023,
 
-Here are some ideas to get you started:
+🎓 🇨🇳 [XJTLU](https://www.xjtlu.edu.cn/en) - BSc in Information and Computing Science, 9/2018 - 7/2022,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Java (Spring Boot) / Python (Django) / Vue.js / C++ / Go
+
+🎛️ Ubuntu / Nginx / Caddy / Docker
+
+🌐️ Interests: Web development and Server management / DevOps
+
+📫 Email me at: EckCiting@outlook.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EckCiting&hide=html,css,scss&layout=compact)](https://github.com/EckCiting/github-readme-stats)
