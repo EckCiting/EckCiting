@@ -12,4 +12,4 @@
 
 📫 Email me at: EckCiting@outlook.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EckCiting&hide=html,css,scss&layout=compact)](https://github.com/EckCiting/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EckCiting&hide=html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
