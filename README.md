@@ -8,7 +8,7 @@
 
 🎛️ Ubuntu / Nginx / Caddy / Docker
 
-🌐️ Interests: Web development and Server management / DevOps
+🌐️ Interests: Web development / Server management / DevOps / Cryptography
 
 📫 Email me at: EckCiting@outlook.com
 
