@@ -1,6 +1,6 @@
 👋 I‘m committed to becoming a full-stack developer
 
-🎓 🇬🇧 [UofG](https://www.gla.ac.uk/) - MSc in Computing Science, 9/2022 - Expected 9/2023,
+🎓 🇬🇧 [UofG](https://www.gla.ac.uk/) - MSc in Computing Science, 9/2022 - 9/2023, Graduated with Distinction,
 
 🎓 🇨🇳 [XJTLU](https://www.xjtlu.edu.cn/en) - BSc in Information and Computing Science, 9/2018 - 7/2022,
 
